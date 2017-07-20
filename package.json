@@ -1,0 +1,10 @@
+{
+  "name": "mt-quadkeys",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "author": {
+    "name" : "Meteotest",
+    "email" : "web@meteotest.ch",
+    "url" : "https://meteotest.ch/"
+  }
+}
